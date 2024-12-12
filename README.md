@@ -1,5 +1,5 @@
 # Password Checker
-A simple C# console application that allows users to securely enter and confirm their password. It checks if the entered password matches the confirmation and provides feedback if they don't match or if any field is left empty.
+A C# console application that allows users to securely enter and confirm their password. It checks if the entered password matches the confirmation and provides feedback if they don't match or if any field is left empty.
 
 ## Features
 - **Password Validation**: Ensures that the user does not leave the password or confirmation blank.
