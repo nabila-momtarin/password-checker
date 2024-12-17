@@ -1,15 +1,4 @@
-﻿namespace Password_Checker
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
-    }
-}
-/*
- * namespace PassWord_Checker
+﻿namespace PassWord_Checker
 {
     internal class Program
     {
@@ -50,5 +39,3 @@
         }
     }
 }
-
- */
